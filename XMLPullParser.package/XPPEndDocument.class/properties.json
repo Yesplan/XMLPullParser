@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "XPPEvent",
+	"category" : "XMLPullParser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "XPPEndDocument",
+	"type" : "normal"
+}
